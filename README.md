@@ -31,14 +31,11 @@ nexie_interview/
 ├── README.md                 # This file
 ├── env.example               # Example env vars (no secrets)
 ├── data/
-│   ├── churn_probability.csv # Main file used by the app
-│   ├── full_training_data.csv   (optional, for reference/notebooks)
-│   ├── synthetic_data.csv       (optional)
-│   └── train_df.csv             (optional)
-└── notebooks/ (if you choose to organize them)
-    ├── data_generation.ipynb
-    ├── openai.ipynb
-    └── streamlit.ipynb
+   ├── churn_probability.csv # Main file used by the app
+   ├── full_training_data.csv   (optional, for reference/notebooks)
+   ├── synthetic_data.csv       (optional)
+   └── train_df.csv             (optional)
+
 
 Command Sequence (End-to-End)
 # 1. Clone
