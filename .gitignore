@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+.venv*/
+.venv312/
+
+# OS / editor junk
+.DS_Store
+*.swp
+.ipynb_checkpoints/
+
+# Local env + secrets
+.env
+
+# Training artifacts / logs
+catboost_info/
+
+# Mac metadata from zip
+__MACOSX/

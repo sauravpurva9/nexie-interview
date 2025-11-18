@@ -1,0 +1,15 @@
+streamlit
+fastapi
+uvicorn
+pydantic
+twilio
+python-dotenv
+pandas
+numpy
+requests
+openai
+httpx
+
+# Optional: for working with notebooks
+jupyter
+ipykernel
