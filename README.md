@@ -27,6 +27,7 @@ nexie_interview/
 ├── streamlit_run.py          # Streamlit UI for exploring churn data & summaries
 ├── voice_server.py           # FastAPI app for Twilio-based voice calls
 ├── open_ai_summary.py        # HighRiskCustomerSummarizer (OpenAI client)
+├── data_generation.ipynb     # Synthetic data creation & customer cohotring
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # This file
 ├── env.example               # Example env vars (no secrets)
