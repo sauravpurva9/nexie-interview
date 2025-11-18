@@ -56,6 +56,5 @@ cp env.example .env
 # 5. Start FastAPI voice server
 uvicorn voice_server:app --host 0.0.0.0 --port 8000 --reload
 
-
 # 6. In another terminal, start Streamlit
 streamlit run streamlit_run.py
